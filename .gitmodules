@@ -1,0 +1,3 @@
+[submodule "selectize"]
+  path = selectize
+  url = https://github.com/brianreavis/selectize.js.git
