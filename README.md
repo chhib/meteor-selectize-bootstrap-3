@@ -1,4 +1,4 @@
-# Selectize 
+# Selectize v0.11.2
 
 [Selectize](http://brianreavis.github.io/selectize.js/) is the hybrid of a textbox and `<select>` element. It's a jQuery-based plugin that can be used for tagging, contact lists, country selectors, and lots more.
 
